@@ -5,4 +5,4 @@ Allow: /
 Disallow: /images/aesthetic-images/
 Disallow: /images/before-after-images/
 
-Sitemap: https://www.cnichtexternal.com/sitemap.xml
+Sitemap: https://www.cnichtext.co.uk/sitemap.xml
