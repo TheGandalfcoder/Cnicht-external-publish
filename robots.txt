@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block crawlers from indexing image source files directly
+Disallow: /images/aesthetic-images/
+Disallow: /images/before-after-images/
+
+Sitemap: https://www.cnichtexternal.com/sitemap.xml
